@@ -1,0 +1,15 @@
+body {
+    color: blueviolet;
+    font-family: fantasy;
+}
+
+div {
+    color: cornsilk;
+    display: block;
+}
+
+p {
+    background-color: cadetblue;
+    font-style: italic;
+    font-display: block;
+}
